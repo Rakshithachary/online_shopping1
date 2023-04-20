@@ -1,0 +1,3 @@
+debit 
+credit
+cod
